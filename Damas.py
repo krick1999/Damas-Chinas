@@ -267,6 +267,3 @@ def validarMovimiento(coordenadasOr,coordenadasNuevas):
 
 def prueba():
     return
-
-def prueba2():
-    return
