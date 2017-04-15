@@ -264,3 +264,6 @@ def validarMovimiento(coordenadasOr,coordenadasNuevas):
     elif turno=="j2":
         resultado= validarMovimientoJ2(coordenadasOr,coordenadasNuevas)
     return resultado
+
+def prueba():
+    return
